@@ -9,9 +9,9 @@ setup(
         'numpy',
         'matplotlib',
         'seaborn',
-        'sklearn'
+        'scikit-learn'
     ],
     author='Tehsein',
     description='Utility functions for data visualization and model evaluation',
-    url='https://github.com/yourusername/analytics_store'
+    url='https://github.com/tfiroze/Analytics_Store'
 )
